@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+sqlalchemy
+pydantic
+bcrypt
+python-jose[cryptography]
+aiomysql
