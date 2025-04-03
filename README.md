@@ -22,7 +22,7 @@ A complete blog application built with FastAPI following MVC architecture, featu
 
 1. Clone the repository:
 ```bash
-git clone [your-repository-url]
+git clone https://github.com/taiwo2/FastAPI-blog.git
 cd fastapi-mysql-blog
 
 python -m venv venv
