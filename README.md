@@ -31,3 +31,5 @@ source venv/bin/activate  # On macOS/Linux
 brew services start mysql
 
 pip install fastapi uvicorn sqlalchemy pymysql python-jose[cryptography] passlib redis python-multipart pydantic[email]
+
+pip install -r requirements.txt
