@@ -33,3 +33,7 @@ brew services start mysql
 pip install fastapi uvicorn sqlalchemy pymysql python-jose[cryptography] passlib redis python-multipart pydantic[email]
 
 pip install -r requirements.txt
+
+## Start the development server:
+
+uvicorn app.main:app --reload
